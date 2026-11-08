@@ -1,0 +1,9 @@
+{
+  "name": "notch-status",
+  "version": "0.4.0",
+  "description": "Affiche l'état des sessions Claude Code dans l'encoche du Mac et empêche les sessions parallèles de se marcher dessus.",
+  "author": { "name": "Enzo" },
+  "license": "MIT",
+  "repository": "https://github.com/enzomerand/palan-plugins",
+  "types": "./types/index.d.ts"
+}
