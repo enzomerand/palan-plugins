@@ -1,0 +1,5 @@
+# L'app compilée : chacun la construit avec app/build.sh
+app/build/
+# Écrits par le moteur de Claude Code
+.claude-plugin/types/
+.DS_Store

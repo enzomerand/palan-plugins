@@ -14,6 +14,12 @@
       "source": "./plugins/feature-checklist",
       "description": "Panneau « Bilan feature » : remplace le tableau de fin du cycle feature, avec des boutons pour traiter, décider et fusionner. Installe dev avec lui.",
       "category": "workflow"
+    },
+    {
+      "name": "notch-status",
+      "source": "./plugins/notch-status",
+      "description": "L'état des sessions Claude Code dans l'encoche du Mac, un aiguilleur qui empêche les sessions parallèles de se marcher dessus, et l'usage de la semaine au pied de la saisie.",
+      "category": "productivity"
     }
   ]
 }
