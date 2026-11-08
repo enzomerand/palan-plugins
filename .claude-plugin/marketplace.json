@@ -1,0 +1,19 @@
+{
+  "name": "palan",
+  "owner": { "name": "Palan" },
+  "description": "Skills et mods Claude Code de Palan.",
+  "plugins": [
+    {
+      "name": "dev",
+      "source": "./plugins/dev",
+      "description": "Cycle de développement d'une fonctionnalité, de la demande à la fusion : spécification courte, tests d'abord, revue en cascade, pull request. Optimisé pour la consommation de contexte.",
+      "category": "workflow"
+    },
+    {
+      "name": "feature-checklist",
+      "source": "./plugins/feature-checklist",
+      "description": "Panneau « Bilan feature » : remplace le tableau de fin du cycle feature, avec des boutons pour traiter, décider et fusionner. Installe dev avec lui.",
+      "category": "workflow"
+    }
+  ]
+}

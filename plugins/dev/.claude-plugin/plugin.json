@@ -1,0 +1,11 @@
+{
+  "name": "dev",
+  "displayName": "Cycle de développement sobre",
+  "version": "3.2.0",
+  "description": "Cycle de développement d'une fonctionnalité optimisé pour la consommation de contexte : portes gratuites, revue de code en cascade Haiku puis Sonnet sur le diff seul, lecture déléguée aux sous-agents.",
+  "author": {
+    "name": "Enzo"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/enzomerand/palan-plugins"
+}
